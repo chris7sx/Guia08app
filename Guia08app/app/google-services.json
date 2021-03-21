@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "864818306063",
+    "project_id": "loginfirebaseapp-cb5f8",
+    "storage_bucket": "loginfirebaseapp-cb5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864818306063:android:d4d70225e034ac0a68177a",
+        "android_client_info": {
+          "package_name": "sv.lf171258.guia07app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864818306063-8e31v2ci14hutt7s80j1c25mbs7t653d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sv.lf171258.guia07app",
+            "certificate_hash": "829f99ffa6befbe21561eff875e103969b43a599"
+          }
+        },
+        {
+          "client_id": "864818306063-89fhlsjsjn16td583aao06n8aiu1pdf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTCqtyFsxFIlS6Hrhtpdc7Hyyv3GFROk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864818306063-89fhlsjsjn16td583aao06n8aiu1pdf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864818306063:android:1fd4abfb891b234268177a",
+        "android_client_info": {
+          "package_name": "sv.lf171258.guia08app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864818306063-89fhlsjsjn16td583aao06n8aiu1pdf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTCqtyFsxFIlS6Hrhtpdc7Hyyv3GFROk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864818306063-89fhlsjsjn16td583aao06n8aiu1pdf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
